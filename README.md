@@ -2,9 +2,9 @@ Art Gallery for Raluca Neferu
 
 This is the first website I have coded. 
 
-I used BEM methodology for the css code, with a couple of exceptions. 
+I used BEM methodology for the css code, with a couple of exceptions. I did not use sass, but I will use it for future projects.
 
-I used em-defined, design-driven breakpoints for the media queries. 
+I used em-measured, design-driven breakpoints for the media queries. 
 
 I have not used any code that I have not written myself for this site. That means no Jquery, no Bootstrap, no vendor scripts or stylesheets (except for google fonts).
 
@@ -17,5 +17,3 @@ An update is scheduled a couple of months from now to make the site compatible i
 A couple of UI improvements are also scheduled for a more distant update: 1) make the blog posts and about page vertically scrollable from any cursor position on the page, not just from inside the container div and 2) make the gallery slides switch back and forth by horizontal scrolling, not just click/touch events.
 
 I hope you enjoy the website, and more importantly the artwork within it, at https://ralucaneferu.com.
-
-
