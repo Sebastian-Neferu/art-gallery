@@ -1,5 +1,4 @@
-# art-gallery
-Art Gallery for Raluca Neferu
+*Art Gallery for Raluca Neferu
 
 This is the first website I have coded. 
 
