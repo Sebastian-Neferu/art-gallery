@@ -8,6 +8,8 @@ I used em-measured, design-driven breakpoints for the media queries.
 
 I did not use any code that I have not written myself for this site. That means no Jquery, no Bootstrap, no vendor scripts or stylesheets (except for google fonts).
 
+The blog page originally contained all the blog posts the same way the gallery page contains all the gallery slides, with an analogous blog-scripts file providing a similar functionality. Ultimately, however, the ability to share and direct to specific posts was weighted as more important than the performance gain from having a single page for all posts.
+
 The header, the gallery, and the slideshow are designed to be reusable. 
 
 I have not commented my code, except in a couple of places, due to the personal nature of the site. However, websites made for paying clients or employers will be properly commented and easily maintainable.
