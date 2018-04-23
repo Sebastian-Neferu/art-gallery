@@ -12,7 +12,7 @@ The blog page originally contained all the blog posts the same way the gallery p
 
 The header, the gallery, and the slideshow are designed to be reusable. 
 
-I have not commented my code, except in a couple of places, due to the personal nature of the site. However, websites made for paying clients or employers will be properly commented and easily maintainable.
+I did not comment my code due to the personal nature of the site. However, websites made for paying clients or employers will be properly commented and easily maintainable.
 
 An update is scheduled for August 2018 to make the site compatible in Safari and responsive in older IE versions, as well as further smooth out the blog posts layouts on all media breakpoints. 
 
