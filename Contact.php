@@ -38,6 +38,10 @@
     
 <body>
     <header class="header">
+
+        <h1 class="header__title">
+            Raluca Neferu
+        </h1>
         
         <a href="index.html">
             <picture class="header__logo">
