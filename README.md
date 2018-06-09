@@ -12,7 +12,7 @@ I did not use any code that I have not written myself for this site. That means 
 
 The blog page originally contained all the blog posts the same way the gallery page contains all the gallery slides, with an analogous blog-scripts file providing a similar functionality. Ultimately, however, the ability to share and direct to specific posts was weighted to be more important than the performance gain from having a single page for all posts.
 
-Also, the client did not want to sacrifice any of the image quality for performance gain, so the images remain unoptimized.
+Also, the artist did not want to sacrifice any of the image quality for performance gain, so the images remain unoptimized.
 
 The header, the gallery, and the slideshow are designed to be reusable. I will include them and any other reusable components I create in a lib repo that I will create once I have more such components.
 
