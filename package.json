@@ -20,11 +20,11 @@
   "author": "Sebastian Neferu",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^8.2.0",
+    "autoprefixer": "^10.4.14",
     "concat": "^1.0.3",
     "nodemon": "^1.17.2",
     "npm-run-all": "^4.1.2",
-    "postcss-cli": "^5.0.0"
+    "postcss-cli": "^10.1.0"
   },
   "dependencies": {
     "node-sass": "^4.5.3"
